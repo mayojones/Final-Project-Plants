@@ -1,0 +1,166 @@
+
+
+#container {
+
+    background-color:azure;
+    margin-top: -5%;
+
+    padding-bottom: 5%;
+
+}
+
+#content {
+    margin-left: 18%;
+    margin-right: 8%;
+
+
+
+}
+
+h1{
+    font-family: anisette-std,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h2 {
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+h3 {
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+h4 {
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+.plant {
+    text-align: center;
+    z-index: 15;
+    margin-top: 5%;
+
+    color: black;
+    text-decoration: none;
+ 
+
+    font-family: effra-cc,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.label {
+    text-align: center;
+    z-index: 15;
+    margin-top: 5%;
+
+    font-family: effra-cc,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+p {
+    font-family: effra-cc,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    clear: both;
+    
+}
+
+.row1 {
+    clear: both;
+
+    margin-left: 10%;
+
+}
+
+
+.row {
+    clear: both;
+
+    margin-left: 10%;
+    margin-bottom: 10%;
+
+}
+
+.row2 {
+    clear: both;
+
+    margin-left: 10%;
+    margin-bottom: 10%;
+
+}
+
+
+
+
+
+.column {
+    float: left;
+    width: 20%;
+}
+
+.column-text {
+    float: left;
+    width: 35%;
+}
+
+.column1 {
+    float: left;
+    width: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.column1-text {
+    float: left;
+    width: 40%;
+    
+}
+
+.plant {
+    background-color:burlywood;
+    border-color: burlywood;
+
+    max-height: 80px;
+    max-width: 340px;
+    text-align: center;
+
+    vertical-align: middle;
+    position: relative;
+
+
+}
+
+
+
+#R1 {
+    width: 400px;
+    height: 400px;
+    margin-top: -70%;
+    margin-left: -6%;
+    margin-right: 5%;
+
+}
+
+#table1 {
+    width: 1200px;
+    height: 400px;
+    margin-top: -70%;
+    margin-left: 50%;
+    margin-bottom: -35%;
+
+}
+
+
