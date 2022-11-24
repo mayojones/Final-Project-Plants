@@ -1,0 +1,269 @@
+
+
+#container {
+
+    background-color:azure;
+    margin-top: -5%;
+
+    padding-bottom: 5%;
+
+}
+
+#content {
+    margin-left: 9%;
+    margin-right: 8%;
+
+
+
+}
+
+h1{
+    font-family: anisette-std,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h2 {
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+h3 {
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+h4 {
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+.plant {
+    text-align: center;
+    z-index: 15;
+    margin-top: 5%;
+
+    color: black;
+    text-decoration: none;
+ 
+
+    font-family: effra-cc,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.label {
+    text-align: center;
+    z-index: 15;
+    margin-top: 5%;
+
+    font-family: effra-cc,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+p {
+    font-family: effra-cc,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.row1 {
+    clear: both;
+
+    margin-left: 10%;
+
+}
+
+
+.row {
+    clear: both;
+
+    margin-left: 10%;
+    margin-bottom: 10%;
+
+}
+
+.row2 {
+    clear: both;
+
+    margin-left: 10%;
+    margin-bottom: 10%;
+
+}
+
+
+
+
+
+.column {
+    float: left;
+    width: 20%;
+}
+
+.column-text {
+    float: left;
+    width: 30%;
+}
+
+.column1 {
+    float: left;
+    width: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.column1-text {
+    float: left;
+    width: 30%;
+}
+
+
+
+.plant {
+    background-color:burlywood;
+    border-color: burlywood;
+
+    max-height: 80px;
+    max-width: 340px;
+    text-align: center;
+
+    vertical-align: middle;
+    position: relative;
+
+
+}
+
+
+
+
+
+
+
+#heart-leaf {
+    margin-top: -80%;
+
+}
+
+#Orange {
+    margin-top: -110%;
+
+
+}
+
+#birkin {
+    margin-top: -95%;
+
+}
+
+#Burg {
+    margin-top: -83%;
+    width:200px;
+
+}
+
+#congo {
+    margin-top: -100%;
+    width: 300px;
+    padding: 0px;
+
+}
+
+#monstera {
+    margin-top: -95%;
+    width: 220px;
+    padding: 0px;
+
+}
+
+#Varg {
+    margin-top: -95%;
+    width:250px;
+
+}
+
+#Yellow-gem {
+    Margin-top: -87%;
+
+}
+
+#Audrey {
+    Margin-top: -88%;
+
+}
+
+#Spider {
+    margin-top: -72%;
+    width: 250px;
+
+}
+
+#Curly-Spider {
+    margin-top: -72%;
+    width: 230px;
+
+}
+
+#Leslie {
+    margin-top: -100%;
+    width: 250px;
+
+}
+
+#star {
+    margin-top: -100%;
+    width: 280px;
+
+}
+
+#hair {
+    margin-top: -100%;
+    margin-left: 2%;
+    width: 300px;
+
+}
+
+#button {
+    margin-top: -110%;
+    margin-left: 3%;
+    width: 260px;
+
+}
+
+#golden {
+    margin-top: -82%;
+    margin-left: -8%;
+    width: 350px;
+
+}
+
+#njoy {
+    margin-top: -160%;
+    margin-left: -5%;
+    width: 400px;
+
+}
+
+#neon {
+    margin-top: -100%;
+    width: 300px;
+
+}
+
+#marble {
+    margin-top: -90%;
+    margin-left: -8%;
+    width: 250px;
+
+}
+
+
